@@ -104,19 +104,19 @@ I am a programming student whith strong creative and analytical skills. Team pla
 </td>       
 
 <td width="50%">
-<h3 align="center">Traffic simulation in Unity</h3>
+<h3 align="center">Motion control of a robot</h3>
 <div align="center">
-<a href="https://github.com/Fer5929/Multiagentes_Unity" target="_blank"><img src="https://i.postimg.cc/kGb2Sfp5/Captura-de-pantalla-2024-04-26-114003.png" width="400" alt="Traffic simulation in Unity"></a>
+<a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank"><img src="https://i.postimg.cc/tRWWvNkj/Whats-App-Image-2024-04-26-at-11-26-15-AM.jpg" width="400" alt="Motion control of a robot"></a>
 <p>
-<a href="https://github.com/Fer5929/Multiagentes_Unity" target="_blank">
+<a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://drive.google.com/file/d/1wVXymZ-th1GEP1ThU38Mf-Hjrwuwj2jl/view?usp=drive_link" target="_blank">
+<a href="https://youtu.be/rdVaQ9z6v08?si=-uO59_kuPX8KW3Pn" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Traffic simulation using <strong> Unity and Phyton </strong></p>
-  <p>This project consists of creating a traffic simulation in a city which will be shown in Unity and calculating the agents through Python.</p>
+<p>Motion control of a robot for <strong> Telpochcalli </strong></p>
+  <p>Participation in the development of the robot movement control code used by telpochcalli in the <strong>Robomaster 2023 competition</strong>strong></p>
 </div>
                                                                                       
 </td>  
@@ -127,7 +127,7 @@ I am a programming student whith strong creative and analytical skills. Team pla
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/IanVazquez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
