@@ -32,14 +32,11 @@ I am a programming student whith strong creative and analytical skills. Team pla
 <a href="https://github.com/santibpz/RETO_TC2005B" target="_blank"><img src="https://i.postimg.cc/BnstkZRM/Logowf.png" width="400" alt="RPG Videogame"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/santibpz/RETO_TC2005B" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p><strong>RPG video game with its own website</strong> This project consists of creating a video game using Unity, creating a website where it can be hosted and a database.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
