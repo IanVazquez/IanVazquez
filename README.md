@@ -7,12 +7,7 @@
 
 I am a programming student whith strong creative and analytical skills. Team player with an eye for detail. 
 My mains skills are:
-Design thinking                         Problem-solving
-Front end coding                        Back end coding
-C,C++,C#,Phyton, Html, Javascipt, Mysql
-React, Elixir, Racket
-Working collaboratively as an individual
-Game developer in unity 
+Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phyton, Html, Javascipt, Mysql React, Elixir, Racket Working collaboratively as an individual and Game developer in unity 
 <br>
 
 ## Best *Proyects*
