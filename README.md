@@ -20,7 +20,8 @@ I am a programming student whith strong creative and analytical skills. Team pla
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><strong>Project to convert the syntax of python codes to html</strong> - This project consists of a racket code which, by obtaining Python codes, can translate said syntax into HTML in order to help people with knowledge of Python learn to learn HTML.</p>
+<p><strong>Project to convert the syntax of python codes to html</strong> </p>
+<p> This project consists of a racket code which, by obtaining Python codes, can translate said syntax into HTML in order to help people with knowledge of Python learn to learn HTML.</p>
 </div>
                                                                                       
 </td>
