@@ -37,7 +37,8 @@ I am a programming student whith strong creative and analytical skills. Team pla
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p><strong>RPG video game with its own website</strong> This project consists of creating a video game using Unity, creating a website where it can be hosted and a database.</p>
+</p><strong>RPG video game with its own website</strong> </p>
+  <p>This project consists of creating a video game using Unity, creating a website where it can be hosted and a database.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
