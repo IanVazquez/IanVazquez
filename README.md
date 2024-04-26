@@ -14,7 +14,7 @@ I am a programming student whith strong creative and analytical skills. Team pla
 <td width="50%">
 <h3 align="center">Project to convert the syntax of python codes to html</h3>
 <div align="center">
-<a href="https://github.com/IanVazquez/TC2037.601" target="_blank"><img src="https://drive.google.com/file/d/13yfhHv5vb5s5dpyO0uclIBiZv5HVyH31/view?usp=sharing" width="400" alt="Normal Language using Racket"></a>
+<a href="https://github.com/IanVazquez/TC2037.601" target="_blank"><img src="https://ibb.co/09CQ0mX" width="400" alt="Normal Language using Racket"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
