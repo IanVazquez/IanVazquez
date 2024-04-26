@@ -20,7 +20,7 @@ I am a programming student whith strong creative and analytical skills. Team pla
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p><strong>Project to convert the syntax of python codes to html</strong> - This project consists of a racket code which, by obtaining Python codes, can translate said syntax into HTML in order to help people with knowledge of Python learn to learn HTML.</p>
 </div>
                                                                                       
 </td>
