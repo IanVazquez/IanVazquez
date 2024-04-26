@@ -58,7 +58,8 @@ I am a programming student whith strong creative and analytical skills. Team pla
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p> Ticket generation application using React for <strong> Fundación por México </strong></p>
+  <p> The project consists of the creation of a ticket system in react according to the partner's specifications</p>
 </div>
                                                                                       
 </td>       
