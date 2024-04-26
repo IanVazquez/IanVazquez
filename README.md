@@ -1,14 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy Ian Vázquez</a> 👋</h1>
+<h1 align="center">Hi, I am Ian Vázquez</a> 👋</h1>
 </div>
 <img src="https://acortar.link/i5cFsx">
 
-## Sobre mi
+## About me
 
 I am a programming student whith strong creative and analytical skills. Team player with an eye for detail. 
 <br>
 
-## Mejores *Proyectos*
+## Best *Proyects*
 <table>
 <tr>
 <td width="50%">
