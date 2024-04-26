@@ -27,9 +27,9 @@ I am a programming student whith strong creative and analytical skills. Team pla
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center"> RPG Videogame</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/santibpz/RETO_TC2005B" target="_blank"><img src="https://i.postimg.cc/BnstkZRM/Logowf.png" width="400" alt="RPG Videogame"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
