@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Ian Vázquez</a> 👋</h1>
 </div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbecas-mexico.mx%2F2019%2Fmaestria-en-ciencias-en-ingenieria-y-tecnologias-computacionales-2%2F&psig=AOvVaw3psAcRXcPxRwT85D-Tv7r8&ust=1714228128364000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCUy8eL4IUDFQAAAAAdAAAAABAE">
+<img src="https://acortar.link/i5cFsx">
 
 ## Sobre mi
 
