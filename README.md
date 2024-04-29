@@ -118,7 +118,7 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 </a>
 </p>
 <p>Motion control of a robot for <strong> Telpochcalli </strong></p>
-  <p>Participation in the development of the robot movement control code used by telpochcalli in the <strong>Robomaster 2023 competition</strong>strong></p>
+  <p>Participation in the development of the robot movement control code used by telpochcalli in the <strong>Robomaster 2023 competition</strong></p>
 </div>
                                                                                       
 </td>  
