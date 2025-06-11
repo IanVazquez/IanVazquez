@@ -143,19 +143,16 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 </td>       
 
 <td width="50%">
-<h3 align="center">Motion control of a robot</h3>
+<h3 align="center">C- compiler</h3>
 <div align="center">
-<a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank"><img src="https://i.postimg.cc/tRWWvNkj/Whats-App-Image-2024-04-26-at-11-26-15-AM.jpg" width="400" alt="Motion control of a robot"></a>
+<a href="https://github.com/IanVazquez/C--compiler.git" target="_blank"><img src="https://patriciaemiguel.com/assets/2016-03-30-compiladores-interpretes-img1.jpg" width="400" alt="Compiler"></a>
 <p>
-<a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank">
+<a href="https://github.com/IanVazquez/C--compiler.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/rdVaQ9z6v08?si=-uO59_kuPX8KW3Pn" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
 </p>
-<p>Motion control of a robot for <strong> Telpochcalli </strong></p>
-  <p>Participation in the development of the robot movement control code used by telpochcalli in the <strong>Robomaster 2023 competition</strong></p>
+<p>C- <strong> Compiler </strong></p>
+  <p>This project involves the development of a Python-based compiler for C- code. The compiler is structured into key phases: lexer, parser, semantic analyzer, and code generator, ensuring a complete and efficient compilation process.</strong></p>
 </div>
                                                                                       
 </td>  
