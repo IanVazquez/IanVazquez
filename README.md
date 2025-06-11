@@ -125,6 +125,44 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Call center using AWS Services</h3>
+<div align="center">
+<a href="https://github.com/sergiozuckermann/Desarrollo_de_software" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/480px-Amazon_Web_Services_Logo.svg.png" width="400" alt="Call center using AWS services"></a>
+<p>
+<a href="https://github.com/sergiozuckermann/Desarrollo_de_software" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p> Call center using for <strong> React and Aws services </strong></p>
+  <p> The project consists in create a call center using React and AWS Services like Amazon Connect, Database in the cloud, Amplify or Sentiment analysis</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Motion control of a robot</h3>
+<div align="center">
+<a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank"><img src="https://i.postimg.cc/tRWWvNkj/Whats-App-Image-2024-04-26-at-11-26-15-AM.jpg" width="400" alt="Motion control of a robot"></a>
+<p>
+<a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/rdVaQ9z6v08?si=-uO59_kuPX8KW3Pn" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Motion control of a robot for <strong> Telpochcalli </strong></p>
+  <p>Participation in the development of the robot movement control code used by telpochcalli in the <strong>Robomaster 2023 competition</strong></p>
+</div>
+                                                                                      
+</td>  
+</table>
+</div>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
