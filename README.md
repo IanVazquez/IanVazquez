@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I am Ian Vázquez</a> 👋</h1>
 </div>
-<img src="https://acortar.link/i5cFsx">
 
 ## About me
 
