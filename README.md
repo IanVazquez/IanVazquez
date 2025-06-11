@@ -128,16 +128,16 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Call center using AWS Services</h3>
+<h3 align="center">Chatbot TecGPT</h3>
 <div align="center">
-<a href="https://github.com/sergiozuckermann/Desarrollo_de_software" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/480px-Amazon_Web_Services_Logo.svg.png" width="400" alt="Call center using AWS services"></a>
+<a href="https://github.com/MiguelCabreraVictoria/TecGPT" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/768px-OpenAI_Logo.svg.png" width="400" alt="Chat bot ai"></a>
 <p>
-<a href="https://github.com/sergiozuckermann/Desarrollo_de_software" target="_blank">
+<a href="https://github.com/MiguelCabreraVictoria/TecGPT" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p> Call center using for <strong> React and Aws services </strong></p>
-  <p> The project consists in create a call center using React and AWS Services like Amazon Connect, Database in the cloud, Amplify or Sentiment analysis</p>
+<p> Chatbot with  <strong> artificial intelligence </strong></p>
+  <p> The project consists of creating a chatbot with artificial intelligence and creating the infrastuctura nescessary to make it an online service</p>
 </div>
                                                                                       
 </td>       
