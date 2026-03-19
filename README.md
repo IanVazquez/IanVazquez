@@ -15,7 +15,7 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 <td width="50%">
 <h3 align="center">Project to convert the syntax of python codes to html</h3>
 <div align="center">
-<a href="https://github.com/IanVazquez/TC2037.601" target="_blank"><img src="https://i.postimg.cc/vBYh3dtK/Dise-o-sin-t-tulo-1.png" width="400" alt="Project to convert the syntax of python codes to html with Racket"></a>
+<a href="https://github.com/IanVazquez/TC2037.601" target="_blank"><img src="https://en.wikipedia.org/wiki/Racket_(programming_language) width="400" alt="Project to convert the syntax of python codes to html with Racket"></a>
 <p>
 <a href="https://github.com/IanVazquez/TC2037.601" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -31,7 +31,7 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
                <br>
 <h3 align="center"> RPG Videogame</h3>
 <div align="center">                                       
-<a href="https://github.com/santibpz/RETO_TC2005B" target="_blank"><img src="https://i.postimg.cc/BnstkZRM/Logowf.png" width="400" alt="RPG Videogame"></a>
+<a href="https://github.com/santibpz/RETO_TC2005B" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/330px-Unity_2021.svg.png" width="400" alt="RPG Videogame"></a>
 <br>
 <p>
 <a href="https://github.com/santibpz/RETO_TC2005B" target="_blank">
@@ -50,7 +50,7 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 <td width="50%">
 <h3 align="center">Web application using React</h3>
 <div align="center">
-<a href="https://github.com/DavidF2714/TC2007B.E7" target="_blank"><img src="https://i.postimg.cc/SsWsNJ2X/Dise-o-sin-t-tulo-2.png" width="400" alt="Web application using React"></a>
+<a href="https://github.com/DavidF2714/TC2007B.E7" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/330px-React_Logo_SVG.svg.png" width="400" alt="Web application using React"></a>
 <p>
 <a href="https://github.com/DavidF2714/TC2007B.E7" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -68,7 +68,7 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 <td width="50%">
 <h3 align="center">Traffic simulation in Unity</h3>
 <div align="center">
-<a href="https://github.com/Fer5929/Multiagentes_Unity" target="_blank"><img src="https://i.postimg.cc/kGb2Sfp5/Captura-de-pantalla-2024-04-26-114003.png" width="400" alt="Traffic simulation in Unity"></a>
+<a href="https://github.com/Fer5929/Multiagentes_Unity" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/330px-Unity_2021.svg.png" width="400" alt="Traffic simulation in Unity"></a>
 <p>
 <a href="https://github.com/Fer5929/Multiagentes_Unity" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -92,7 +92,7 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 <td width="50%">
 <h3 align="center">Call center using AWS Services</h3>
 <div align="center">
-<a href="https://github.com/sergiozuckermann/Desarrollo_de_software" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/480px-Amazon_Web_Services_Logo.svg.png" width="400" alt="Call center using AWS services"></a>
+<a href="https://github.com/sergiozuckermann/Desarrollo_de_software" target="_blank"><img src="https://ausum.cloud/wp-content/uploads/2024/02/aws-servicios-principales.jpg" width="400" alt="Call center using AWS services"></a>
 <p>
 <a href="https://github.com/sergiozuckermann/Desarrollo_de_software" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -107,7 +107,7 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 <td width="50%">
 <h3 align="center">Motion control of a robot</h3>
 <div align="center">
-<a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank"><img src="https://i.postimg.cc/tRWWvNkj/Whats-App-Image-2024-04-26-at-11-26-15-AM.jpg" width="400" alt="Motion control of a robot"></a>
+<a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/70/RoboMaster-official-logo.png" width="400" alt="Motion control of a robot"></a>
 <p>
 <a href="https://github.com/Telpochcalli/MovimientoControl" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
