@@ -15,7 +15,7 @@ Design thinking, Problem-solving, Front end coding, Back end coding C,C++,C#,Phy
 <td width="50%">
 <h3 align="center">Project to convert the syntax of python codes to html</h3>
 <div align="center">
-<a href="https://github.com/IanVazquez/TC2037.601" target="_blank"><img src="https://en.wikipedia.org/wiki/Racket_(programming_language)" width="400" alt="Project to convert the syntax of python codes to html with Racket"></a>
+<a href="https://github.com/IanVazquez/TC2037.601" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/330px-Racket-logo.svg.png" width="400" alt="Project to convert the syntax of python codes to html with Racket"></a>
 <p>
 <a href="https://github.com/IanVazquez/TC2037.601" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
